@@ -1,0 +1,12 @@
+.container {
+    margin: 1rem;
+}
+
+.container input:focus {
+    margin: 0.2rem;
+    background-color: transparent;
+}
+
+.h4, h4 {
+    text-transform: capitalize;
+}
